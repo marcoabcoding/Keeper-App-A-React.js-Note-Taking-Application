@@ -1,5 +1,5 @@
-Keeper App
-Keeper App is a simple note-taking application built with React.js. The project allows users to create, view, and organize notes. It mimics the functionality of Google Keep, offering a clean and minimalistic UI where users can quickly jot down ideas, thoughts, or to-dos.
+
+  Keeper App is a simple note-taking application built with React.js. The project allows users to create, view, and organize notes. It mimics the functionality of Google Keep, offering a clean and minimalistic UI where users can quickly jot down ideas, thoughts, or to-dos.
 
 Features
 Create Notes: Users can add new notes with a title and content.
