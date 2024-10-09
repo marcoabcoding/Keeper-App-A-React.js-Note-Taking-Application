@@ -24,12 +24,19 @@ CreateArea: A form to create new notes with a title and content.
 App.jsx: The main component that manages the application state and renders other components.
 
 CreateArea.jsx: Handles user input for creating new notes.
+
 Header.jsx: Renders the header of the application.
+
 Note.jsx: Displays individual notes on the page.
+
 Footer.jsx: Adds a footer to the bottom of the app.
-Technologies Used
+
+#### Technologies Used
+
 React.js: Component-based JavaScript library for building user interfaces.
+
 JavaScript ES6: Modern JavaScript features like arrow functions and object destructuring.
+
 HTML5 & CSS3: For structuring and styling the app
 
 
