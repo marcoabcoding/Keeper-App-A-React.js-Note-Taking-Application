@@ -22,6 +22,7 @@ CreateArea: A form to create new notes with a title and content.
 #### File Structure
 
 App.jsx: The main component that manages the application state and renders other components.
+
 CreateArea.jsx: Handles user input for creating new notes.
 Header.jsx: Renders the header of the application.
 Note.jsx: Displays individual notes on the page.
